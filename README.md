@@ -23,6 +23,4 @@ This source code is released under the MIT License so anyone can use, copy, modi
 
 Build the code mod with the bundled SDK:
 
-```powershell
-& 'C:\Users\stoot\OneDrive\Documents\New project\tools\dotnet-sdk\dotnet.exe' build 'C:\Users\stoot\OneDrive\Documents\New project\RealWorldTrafficLights_src\RealWorldTrafficLights\RealWorldTrafficLights.csproj' -c Release
-```
+
