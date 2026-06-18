@@ -1,0 +1,40 @@
+<Publish>
+	<DisplayName Value="Real World Traffic Lights" />
+	<ShortDescription Value="Moves CS2 traffic light visuals to more realistic far-side placement." />
+	<LongDescription>
+# Real World Traffic Lights
+
+Real World Traffic Lights mirrors Cities: Skylines II traffic light placement data so generated signal heads sit across the intersection and face the through road, closer to real-world mast-arm traffic light layouts.
+
+Inspired by [Dava787](https://www.twitch.tv/dava787).
+
+## Features
+
+- More realistic far-side traffic light visual placement
+- Mirrors generated signal position, curve range, and rotation data
+- Refreshes existing road nodes and edges when a city loads
+- Works as a visual-only code mod
+
+## Notes
+
+This mod changes traffic light visuals only. It does not change traffic simulation, lane routing, signal timing, pathfinding, road data, or save data.
+
+Source files are included in the package under `Source/` and released under the MIT License.
+
+GitHub source:
+https://github.com/northernst11-bot/RealWorldTrafficLights
+	</LongDescription>
+	<Thumbnail Value="Properties/Thumbnail.png" />
+	<Screenshot Value="Properties/1.png" />
+	<Tag Value="Code Mod" />
+	<ModVersion Value="0.1.0" />
+	<GameVersion Value="1.5.*" />
+	<ChangeLog>
+Version 0.1.0:
+- Initial public release.
+- Mirrors generated traffic light visual placement to face the through road from the far side of the intersection.
+- Refreshes existing road node and edge secondary objects when a city loads.
+- Includes source code in the published package.
+	</ChangeLog>
+	<AccessLevel Value="Public" />
+</Publish>

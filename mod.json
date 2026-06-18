@@ -1,0 +1,9 @@
+{
+  "id": "RealWorldTrafficLights",
+  "displayName": "Real World Traffic Lights",
+  "author": "stoot",
+  "version": "0.1.0",
+  "description": "Mirrors Cities: Skylines II traffic light placement so signal heads sit across the intersection like real-world far-side mast-arm lights. Inspired by Dava787.",
+  "isCodeMod": true,
+  "dependencies": []
+}
